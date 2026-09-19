@@ -1,1 +1,1 @@
-print("Dollar Tracker")
+print("Dollar Tracker started!")
