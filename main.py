@@ -1,1 +1,1 @@
-print("Local change")
+print("local and remote changes combined!")
