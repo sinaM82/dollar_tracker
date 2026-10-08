@@ -1,1 +1,1 @@
-print("local and remote changes combined!")
+print("push change practice!")
