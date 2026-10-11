@@ -1,1 +1,1 @@
-print("local and remote push practice")
+print("local rewrite")
